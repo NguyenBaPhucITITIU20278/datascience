@@ -41,7 +41,7 @@ Team Members
         <td>2</td>
         <td>Nguyễn Bá Phúc</td>
         <td>ITITIU20278</td>
-        <td>Development Team</td>
+        <td>Team Member</td>
     </tr>
     <tr>
         <td>3</td>
