@@ -1,7 +1,7 @@
 
 <h1 align="center">Data Science & Data Visualization</h1>
     <br />
-    <h2 align="center">Number of deaths in Covid-19</h2>
+    <h2 align="center">Number of deaths and infected cases by Covid-19</h2>
   <h2>-----How to open the project------</h2>
  After cloning and pulling the code to your IDE, you can open the Case.html file to start the dashboard    
 <!-- TABLE OF CONTENTS -->
