@@ -1,0 +1,6 @@
+Map chart:
+Bao gồm file data countries csv, case.html, death.html, population.html, recovered.html
+Bar chart:
+Bao gồm barchart.html, project.css, project.js
+Linear Chart:
+Bao gồm file new_cases_smoothed và new_deaths_smoothed

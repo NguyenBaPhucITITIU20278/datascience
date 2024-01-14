@@ -1,0 +1,14 @@
+{
+  "name": "e0d68f5ad69564ea",
+  "main": "e0d68f5ad69564ea@416.js",
+  "version": "416.0.0",
+  "homepage": "https://observablehq.com/d/e0d68f5ad69564ea",
+  "author": {
+    "name": "Samarth Kamath",
+    "url": "https://observablehq.com/@samarth-kamath"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

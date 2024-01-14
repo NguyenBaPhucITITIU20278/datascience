@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<meta charset="utf-8" />
+<title>Line chart on covid-data</title>
+<link rel="stylesheet" type="text/css" href="/new_cases_smoothed/inspector.css" />
+
+<body>
+  <header>
+    <a href="">previous</a>
+    <a href="">next</a>
+  </header>
+  <div>
+    <!-- <span>this is paragraph</span> -->
+    <a href="/new_cases_smoothed/index.html">infected count</a>
+  </div>
+  <h1>Counting the Cost: Tracking the Varied Patterns of COVID-19 Deaths (2020-2023)</h1>
+  <script type="module">
+    import define from "./index.js";
+    import { Runtime, Library, Inspector } from "./runtime.js";
+
+    const runtime = new Runtime();
+    const main = runtime.module(define, Inspector.into(document.body));
+  </script>
+</body>
