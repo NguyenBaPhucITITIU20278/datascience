@@ -2,8 +2,10 @@
 <h1 align="center">Data Science & Data Visualization</h1>
     <br />
     <h2 align="center">Number of deaths in Covid-19</h2>
+  -----How to open the project------
+- After cloning and pulling the code to your IDE, you can open the Case.html file to start the dashboard    
 <!-- TABLE OF CONTENTS -->
-  
+
 # Table of contents :round_pushpin:
   
 1: [Introduction](#Introduction)
@@ -14,9 +16,7 @@
 
 4: [Challenges](#Challenges)
 
-5: [How to open the project](#How to open the project)
-
-6: [Acknowledgments](#Acknowledgments)
+5: [Acknowledgments](#Acknowledgments)
 
 # Introduction
 Welcome to our website! This website provides information on the number of deaths due to Covid-19 worldwide. We gather data from reliable sources and present charts and graphs to give you an overview of the pandemic situation.
@@ -79,8 +79,7 @@ Team Members
 - Encountered many errors during the coding process.
 - Data processing is difficult, especially with big data.
 
-# How to open the project
-- After cloning and pulling the code to your IDE, you can open the Case.html file to start the dashboard
+
 
 # Acknowledgments
 - Here are a few websites we consulted to complete our project:
