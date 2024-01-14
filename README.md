@@ -14,7 +14,9 @@
 
 4: [Challenges](#Challenges)
 
-5: [Acknowledgments](#Acknowledgments)
+5: [Open project](#How to open the project)
+
+6: [Acknowledgments](#Acknowledgments)
 
 # Introduction
 Welcome to our website! This website provides information on the number of deaths due to Covid-19 worldwide. We gather data from reliable sources and present charts and graphs to give you an overview of the pandemic situation.
@@ -75,6 +77,10 @@ Team Members
 - Select reasonable and accurate data.
 - Learn how to get used to new programming language like D3.js .
 - Encountered many errors during the coding process.
+- Data processing is difficult, especially with big data.
+
+# How to open the project
+- After cloning and pulling the code to your IDE, you can open the Case.html file to start the dashboard
 
 # Acknowledgments
 - Here are a few websites we consulted to complete our project:
