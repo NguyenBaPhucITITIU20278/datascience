@@ -14,7 +14,7 @@
 
 4: [Challenges](#Challenges)
 
-5: [Open project](#How to open the project)
+5: [How to open the project](#How to open the project)
 
 6: [Acknowledgments](#Acknowledgments)
 
