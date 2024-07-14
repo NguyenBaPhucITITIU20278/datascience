@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bar Chart</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="Project.css">
+    <script src="Project.js" type="text/javascript"></script>
+</head>
+<body>
+
+<!-- Select Country button and dropdown -->
+<button id="selectCountryBtn">Select Country</button>
+<select id="countryDropdown"></select>
+
+<!-- Add/Remove from chart button -->
+<button id="chartActionBtn">Add to chart</button>
+
+<button id="removeAllBtn">Remove All</button>
+
+<!-- Sort button -->
+<button id="sortBtn">Sort by Ascending</button>
+<div class="custom-select-wrapper">
+    <div class="custom-select" id="optionDropdown">Option</div>
+    <div class="custom-options">
+        <div data-option="least-infected">Add 10 least infected provinces</div>
+        <div data-option="most-infected">Add 10 most infected provinces</div>
+        <div data-option="random">Add 10 random provinces</div>
+    </div>
+</div>
+<!-- Pagination buttons -->
+<button class="pagination-btn" id="LinearChart">Change to Linear chart</button>
+<script>
+    
+// Function to load linear chart
+function loadLinearChart() {
+    // Redirect to index.html in the new_cases_smoothed folder
+    window.location.href = "new_cases_smoothed/index.html";
+}
+
+// Add click event listener to the LinearChart button
+document.getElementById("LinearChart").addEventListener("click", loadLinearChart);
+</script>
+
+<!-- Initial SVG element -->
+<svg id="chart" width="800" height="600"></svg>
+<!-- Tooltip element -->
+<div class="tooltip" id="tooltip"></div>
+<div id="chartTitle">Number of COVID-19 Cases in Vietnam</div>
+
+
+</body>
+</html>
